@@ -1,0 +1,4 @@
+#Sun Feb 16 10:44:00 MST 2020
+base.0=D\:\\Github\\kami_tech\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
